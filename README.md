@@ -10,3 +10,16 @@ In the project, the following has been completed:
      - Useful links: "About this website" and "Contact us" are pages with new windows with additional information.
      - News: I added a new text label where I put text inside it, which disappears when you start typing in the field.
                - The submit field does not work.
+
+2) Menu page:
+   - NAVBAR: logo + background change using a switch + "Contact us" link connected to the home page and opens the same page
+   - Slider with images (3 pictures) (slider has dots)
+   - Search and sort fields for the menu
+   - Menu: created using #tile-container with grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+          - Separated script with food-list.js connected to menu.html
+          - In app.js, I created a function that allows me to display the title, description, and price of the meal in the table.
+          - As we can see, all fields in the table are the same.
+   - At the bottom of the page, we can see a button that takes us back to the home page.
+  
+3) Postani deo tima:
+   
