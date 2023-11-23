@@ -22,4 +22,9 @@ In the project, the following has been completed:
    - At the bottom of the page, we can see a button that takes us back to the home page.
   
 3) Postani deo tima:
-   
+   -Stranica je podeljena u dve celine: leva strana i desna strana
+      -leva strana: slika bez skrolera(fiksirana je)
+      -desna strana: polja za popunjavanje formulara, gde je obavezno popuniti svako polje + polje za datum + polje za potpisivanje + dugme za povratak       na pocetnu stranicu
+         -polje za popunjavanje formulara -> obavezno je popunjavanje svakog polja
+         -polje za datum -> takodje obavezno polje
+         -polje za potpisivanje -> uradjeno preko Canvasa, koje moze da se obrise ili sacuva. Ako obrisete, samo cete ocistiti prozor, dok kada                   kliknemo da sacuvamo, mozemo ispod da vidimo sacuvan potpis i podatke koje smo uneli.
